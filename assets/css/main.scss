@@ -1,4 +1,4 @@
-'---
+---
 ---
 
 @import "reset";
@@ -353,9 +353,9 @@ a[href^="https://"]:after {
   margin: 0 0 0 1px;
 }
 
-a[href^="//goyalankit.com/"]:after,
-a[href^="http://goyalankit.com/"]:after,
-a[href^="https://goyalankit.com/"]:after,
+a[href^="//cjbischoff@github.io/"]:after,
+a[href^="http://cjbischoff@github.io/"]:after,
+a[href^="https://cjbischoff@github.io/"]:after,
 a[href^="//localhost:4000/"]:after {
   content: '';
   margin: 0;
@@ -368,4 +368,4 @@ a[href^="//localhost:4000/"]:after {
 .green_bold_text {
   color: #028002;
   font-weight: 600;
-}'
+}

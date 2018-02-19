@@ -15,19 +15,11 @@ github_username: cjbischoff
 permalink: /blog/:title
 
 
-
 # My variables
 name: /home/cjbischoff
 description: developer. curious. learner
 google_verification: null
 
-
-sass:
-  style: :compressed
-  sass_dir: _sass
-
-# File management
-include: [".htaccess"]
 
 # Sass
 sass:
@@ -38,17 +30,17 @@ sass:
 # Markdown
 markdown: kramdown
 kramdown:
-    input: GFM
-    auto_ids: true
-    hard_wrap: false
-    syntax_highlighter_opts:
-      disable: true
+  # input: GFM
+  hard_wrap: false
 highlighter: rouge
+
 
 # Any plugins within jekyll_plugin group from Gemfile
 plugins:
   - jekyll-feed
 
+# File management
+include: [".htaccess"]
 exclude:
   - vendor
   - Gemfile
