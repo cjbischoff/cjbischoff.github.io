@@ -40,6 +40,13 @@ p {
 
 </style?
 
+Hello. My name is Christopher Bischoff.
+
+I' am a builder, breaker, defender, hamburger flipper and water slider maker.
+
+# *Brief information*{:.title_color}
+
+---
 
 # *Links*{:.title_color}
 
@@ -50,8 +57,10 @@ You can contact me using this links:
 
 
 {:.tmargin}
-- *Github*
-- *Linkedin*
+
+- [Twitter](http://twitter.com/cjbischoff)
+- [GitHub](https://github.com/cjbischoff)
+- [LinkedIn](https://www.linkedin.com/in/christopherjbischoff)
 
 <br/>
 {:.clear_both}

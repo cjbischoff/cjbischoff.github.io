@@ -1,4 +1,8 @@
-# Blog settings
+
+title: Your blog title
+email: christopherjbischoff@gmail.com
+
+
 permalink: /blog/:title
 
 url: https://cjbischoff.github.io
