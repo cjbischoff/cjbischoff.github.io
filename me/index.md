@@ -38,15 +38,23 @@ p {
     margin-left: 30px;
 }
 
-</style?
+</style>
 
-Hello. My name is Christopher Bischoff.
+Hello, I'm **Christopher**
 
-I' am a builder, breaker, defender, hamburger flipper and water slider maker.
+# *What is this blog about?*{:.title_color}
+I mainly write about technical things that I find interesting and things I’d like to refer back to.
 
 # *Brief information*{:.title_color}
 
 ---
+
+## Development:
+{:.tmargin}
+Primary languages for developing are *Golang and Python{:.start_color}. Check out my GitHub account and [projects]({{site.url}}/projects/) page for more details.
+<br/>
+## Security:
+I'm security enthusiast. I am  *Work-in-progress*{:.start_color}.
 
 # *Links*{:.title_color}
 
@@ -55,12 +63,12 @@ I' am a builder, breaker, defender, hamburger flipper and water slider maker.
 You can contact me using this links:
 <br/>
 
+{:.image_size_200}
+![Profile]({{site.url}}/assets/img/profile.jpg)
 
 {:.tmargin}
-
-- [Twitter](http://twitter.com/cjbischoff)
-- [GitHub](https://github.com/cjbischoff)
-- [LinkedIn](https://www.linkedin.com/in/christopherjbischoff)
+- *Github*{:.bold_text}: [@cjbischoff](https://github.com/cjbischoff)
+- *Linkedin*{:.bold_text}: [christopherjbischoff](https://linkedin.com/in/christopherjbischoff)
 
 <br/>
 {:.clear_both}
