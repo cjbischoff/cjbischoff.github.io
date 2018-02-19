@@ -1,0 +1,11 @@
+- title: projects
+  url: /projects
+
+- title: notes
+  url: /notes
+
+- title: about
+  url: /me
+
+- title: feed
+  url: /feed.xml
