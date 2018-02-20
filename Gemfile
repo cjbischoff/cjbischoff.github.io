@@ -9,6 +9,6 @@ gem "jekyll"
 # Some useful examples are listed below
 group :jekyll_plugins do
   gem 'pygments.rb'
-   gem "jekyll-redirect-from"
-   gem "rdiscount"
+  gem 'jekyll-redirect-from'
+  gem 'rdiscount'
 end
