@@ -28,7 +28,7 @@ sass:
 
 
 # Markdown
-markdown: kramdown
+markdown: rdiscount
 kramdown:
     input: GFM
     auto_ids: true
