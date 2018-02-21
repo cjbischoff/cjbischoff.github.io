@@ -28,21 +28,19 @@ sass:
 
 
 # Markdown
-markdown: rdiscount
+highlighter: rouge
+markdown: kramdown
 kramdown:
     input: GFM
     auto_ids: true
     hard_wrap: false
-    syntax_highlighter_opts:
-      disable: true
-highlighter: rouge
+    syntax_highlighter: rouge
 
 
 # Any plugins within jekyll_plugin group from Gemfile
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
-  - rdiscount
 
 # File management
 include: [".well-known"]
