@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/cjbischoff
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cjbischoff.github.io
+  * I am cjbischoff (https://keybase.io/cjbischoff) on keybase.
+  * I have a public key with fingerprint CAB9 85E6 B9DF FCD2 F6B3  5031 97AE 5EB0 797D 6731
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e701d1aedb2c6d9be8cb0ef7afbc9d948a0774fe241d1ef09188e67f5b45a6770a",
+      "fingerprint": "cab985e6b9dffcd2f6b3503197ae5eb0797d6731",
+      "host": "keybase.io",
+      "key_id": "97ae5eb0797d6731",
+      "kid": "0101e701d1aedb2c6d9be8cb0ef7afbc9d948a0774fe241d1ef09188e67f5b45a6770a",
+      "uid": "07f59a8302409d712d53c6c1c9f5dc19",
+      "username": "cjbischoff"
+    },
+    "service": {
+      "hostname": "cjbischoff.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1519129531,
+  "expire_in": 157680000,
+  "prev": "11acbc72d02c66f6506e5acc015eb428c53e2b2bc86b43a25d792bb519145af5",
+  "seqno": 29,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMIpAnicrVJbSBRRGF5TKyUjL3SzoKagIFfnzOxcLfChxMhKfCjIYJ1zmd0p3Vln
+Zq2Q0AhSoqJeytJqu6PYRSq7mNpaIXmhBCsKegjC1ohAK4Kg6IzVUz12Xg7n5/u+
+830f/8O0RE9qQtH4+48F9RXlCQOxsxHPlgOZnTUMNPEuRq1htpPJi1RgYjv+7QZm
+VIYFLCASCzDQCIYcErECiYwgS3RJ0yFSsOKTNVaSfDrhfBRGdFYBskxESRegT9BE
+SWI1JofRjVCAWGHLCDlUFmlQkQUiQgXrOsKcLkJeYHmgSBoRCGQlRcKixANKDJq2
+y6DmoGaTXMOkM/rwT9r7B/4/+478kqNTRZN5lvOxCpYAhwUeiQggRRcwAooLtIkV
+0iqJm24bNGwUNHWd2Z3D0Hm1gYhbrZvlL0xuwHCCEfgrWdgyHROZFRQRdJywrboK
+zq6wS9lBoP+3mB8aIUwbpYxqYtmGGWJUQJHIMVx1IAAFcIrAgxyG7AwbFvEbLkKQ
+RJmlx/2HVFNJADQEkcRhllYk6qLAikTQEGIBbdXHyUjgCQc5iGQR+niNE7CkcBC6
+8rQjXWDceFUhk1E5hfrUAlTTNgIhzYlYhNnde39rkich1TM1eYq7ap7UlFl/FvBw
+5XTP5Zsnxg52tR9f6b2UXps1aheMPjid39zyaPjL8L3a/vntcz95y9bvOXpqIP/D
+cPNgQXF0xUjoSUa8ZOnNvOdXymNqBrvciybWdLyrujt6Mvl5z7OGrYtiL2V1vK03
+vr/09bqaK+at+s9XewpxfPahtLZrdbc3p1l7Mp8eOp1vFn8fXLhk1NjXcOTi9b6c
+x4WZwpvskZRjHXMWnF+17OjZssUlTWuj3f1DY5EM76uBxu6TA19fXO9tibQeO7cM
+x8XohjrVeruuKXF1bVdWccfGefKMDXlt2Ymr76DXDT9a/eTiEHPj9qb0eOPezmnW
++VgV9J55u2hoZvRCdlHdt77u0on0sqSfiJlMMw==
+=zC4e
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cjbischoff
+
+==================================================================
